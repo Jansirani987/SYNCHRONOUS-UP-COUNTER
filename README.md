@@ -32,15 +32,27 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
+
+![SYN](https://github.com/user-attachments/assets/24d85ad4-1d1b-489f-b8d3-3767b5cec709)
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by:Jansi rani A A RegisterNumber:24900239
 */
 
 **RTL LOGIC UP COUNTER**
 
+
+![SYNL](https://github.com/user-attachments/assets/b2a3e72b-cc18-4c78-bbcd-f6ad9b6235a1)
+
 **TIMING DIAGRAM FOR IP COUNTER**
+
+![SYNW](https://github.com/user-attachments/assets/43be69bb-e74c-41f3-87b1-e257cab5fe57)
+
 
 **TRUTH TABLE**
 
+![SYNE](https://github.com/user-attachments/assets/7a2d7683-d41d-4188-85af-32e604936a24)
+
 **RESULTS**
+Thus,the synchronous-up-counter us shift register is implemented using verilog with the truth table and timing diagrams.
