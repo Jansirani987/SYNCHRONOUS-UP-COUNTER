@@ -47,8 +47,7 @@ Developed by:Jansi rani A A RegisterNumber:24900239
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![SYNW](https://github.com/user-attachments/assets/43be69bb-e74c-41f3-87b1-e257cab5fe57)
-
+![image](https://github.com/user-attachments/assets/96e54d5e-dfd5-4a98-ba1c-dfff3826a62d)
 
 **TRUTH TABLE**
 
